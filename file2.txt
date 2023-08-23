@@ -1,1 +1,2 @@
 introduction to git command
+this is file2.txt
